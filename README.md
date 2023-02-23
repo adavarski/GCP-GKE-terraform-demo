@@ -1,4 +1,4 @@
-### Terraform Infrastructure Provisioning for DEV/PROD environments:
+### Terraform Infrastructure Provisioning for GCP:GKE DEV/PROD environments:
 
 Using terraform workspaces to deploy to development and production environments
 ```
